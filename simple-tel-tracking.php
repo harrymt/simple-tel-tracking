@@ -26,7 +26,7 @@ function stt_register_script()
 {
     wp_enqueue_script(
         'simple-tel-tracking-js',
-        plugin_dir_url( __FILE__ ) . '/tracking-code.js',
+        plugin_dir_url( __FILE__ ) . 'tracking-code.js',
         array( 'jquery' ), // Depends on jquery
         '1.0.0',
         true
