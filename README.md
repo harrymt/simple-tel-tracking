@@ -6,7 +6,7 @@ Wordpress Plugin to add Google Analytics code to all tel links and mailto links.
 - Uses jQuery
 - Adds the following [JavaScript](tracking-code.js) to pages:
 
-```
+```javascript
 // tracking-code.js
 
 /**
