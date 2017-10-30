@@ -31,7 +31,7 @@
 
         jQuery( element ).attr(
             'onclick',
-            "ga('send', 'event','" + tracking_string + "','Click/Touch']);"
+            "ga('send', 'event','" + tracking_string + "','Click/Touch');"
         );
     }
  
