@@ -2,6 +2,9 @@
 
 Wordpress Plugin to add Google Analytics code to all tel links and mailto links.
 
+Download it on Wordpress by searching for ['simple-tel-tracking'](https://wordpress.org/plugins/simple-tel-tracking) or [download it here](https://downloads.wordpress.org/plugin/simple-tel-tracking.zip).
+
+
 - Simple
 - Uses jQuery
 - Adds the following [JavaScript](tracking-code.js) to pages:
